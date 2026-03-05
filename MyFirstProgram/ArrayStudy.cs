@@ -1,9 +1,9 @@
-﻿class Program
+﻿class ArrayStudy
 {
     // 프로그램 실행시 진입하는 함수
     // 오직 1개 -> static(정적) -> 스테틱메서드
     // 메서드(클래스 내에서 사용될때) vs 함수(일반기능을 나타낼때)
-    static void Main()
+    static void Main2()
     {
         Console.WriteLine("안녕하신가요~");
 
@@ -48,5 +48,9 @@
             { "퓨처셀프", "삼국지" },
             { "도덕경", "노자"}
         };
+
+        int[,] matrix = new int[3, 3];
+        matrix[2, 2] = 5;
+        Console.WriteLine(matrix[2, 2]);
     }
 }

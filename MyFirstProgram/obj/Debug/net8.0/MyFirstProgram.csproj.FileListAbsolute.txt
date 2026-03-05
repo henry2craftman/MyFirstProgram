@@ -12,3 +12,4 @@ C:\Users\교수\Documents\8기\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\re
 C:\Users\교수\Documents\8기\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.pdb
 C:\Users\교수\Documents\8기\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.genruntimeconfig.cache
 C:\Users\교수\Documents\8기\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\ref\MyFirstProgram.dll
+C:\Users\교수\Documents\8기\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.sourcelink.json
