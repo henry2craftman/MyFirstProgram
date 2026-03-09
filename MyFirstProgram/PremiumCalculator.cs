@@ -110,7 +110,7 @@ namespace MyFirstProgram
     {
         private static readonly CalculatorEngine Engine = new();
 
-        public static void Main()
+        public static void Mai32n()
         {
             Console.Clear();
             ShowHeader();

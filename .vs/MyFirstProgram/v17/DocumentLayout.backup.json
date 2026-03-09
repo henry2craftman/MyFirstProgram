@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\deligationstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\deligationstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\stringstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\stringstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\exceptionstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\exceptionstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\fileandstreamstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\fileandstreamstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\genericstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\genericstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\structstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\structstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\premiumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\premiumcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\classstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\classstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\functionstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\functionstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\enumstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\enumstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\\uAD50\uC218\\documents\\8\uAE30\\myfirstprogram\\myfirstprogram\\arraystudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E970FD7D-94D8-4CC1-8A01-A07AA1241187}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\arraystudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,80 +51,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PremiumCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\PremiumCalculator.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\PremiumCalculator.cs",
-              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\PremiumCalculator.cs",
-              "RelativeToolTip": "MyFirstProgram\\PremiumCalculator.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAWwL4AAAAxAAAAAAAAAA==",
+              "Title": "DeligationStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\DeligationStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\DeligationStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\DeligationStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\DeligationStudy.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T08:06:56.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Util.cs",
-              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\Util.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\Util.cs",
-              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\Util.cs",
-              "RelativeToolTip": "MyFirstProgram\\Util.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T06:27:01.126Z",
+              "WhenOpened": "2026-03-09T02:42:18.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClassStudy.cs",
-              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ClassStudy.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\ClassStudy.cs",
-              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ClassStudy.cs",
-              "RelativeToolTip": "MyFirstProgram\\ClassStudy.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAAAKgAAAAcAAAAAAAAAA==",
+              "Title": "StringStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\StringStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\StringStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\StringStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\StringStudy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T06:03:01.366Z",
+              "WhenOpened": "2026-03-09T02:13:07.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnumStudy.cs",
-              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\EnumStudy.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\EnumStudy.cs",
-              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\EnumStudy.cs",
-              "RelativeToolTip": "MyFirstProgram\\EnumStudy.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwCUAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ExceptionStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ExceptionStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\ExceptionStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ExceptionStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\ExceptionStudy.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T05:03:33.389Z",
+              "WhenOpened": "2026-03-09T01:43:28.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FunctionStudy.cs",
-              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\FunctionStudy.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\FunctionStudy.cs",
-              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\FunctionStudy.cs",
-              "RelativeToolTip": "MyFirstProgram\\FunctionStudy.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Title": "FileAndStreamStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\FileAndStreamStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\FileAndStreamStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\FileAndStreamStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\FileAndStreamStudy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T02:03:08.215Z",
+              "WhenOpened": "2026-03-05T06:30:13.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArrayStudy.cs",
-              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ArrayStudy.cs",
-              "RelativeDocumentMoniker": "MyFirstProgram\\ArrayStudy.cs",
-              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ArrayStudy.cs",
-              "RelativeToolTip": "MyFirstProgram\\ArrayStudy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GenericStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\GenericStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\GenericStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\GenericStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\GenericStudy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T02:18:34.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T03:33:22.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StructStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\StructStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\StructStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\StructStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\StructStudy.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:18:59.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PremiumCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\PremiumCalculator.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\PremiumCalculator.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\PremiumCalculator.cs",
+              "RelativeToolTip": "MyFirstProgram\\PremiumCalculator.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:39:14.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\Calculator.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\Calculator.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\Calculator.cs",
+              "RelativeToolTip": "MyFirstProgram\\Calculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T02:23:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassStudy.cs",
+              "DocumentMoniker": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ClassStudy.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\ClassStudy.cs",
+              "ToolTip": "C:\\Users\\\uAD50\uC218\\Documents\\8\uAE30\\MyFirstProgram\\MyFirstProgram\\ClassStudy.cs",
+              "RelativeToolTip": "MyFirstProgram\\ClassStudy.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwKgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T06:03:01.366Z"
             }
           ]
         }

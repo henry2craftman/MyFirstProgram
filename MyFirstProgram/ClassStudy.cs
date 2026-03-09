@@ -129,7 +129,7 @@ namespace MyFirstProgram
         }
     }
 
-    // abstract 클래스: 실제 구현이 없는 기능만 정의한 탬플릿 형태의 클래스
+    // 추상(abstract) 클래스: 실제 구현이 없는 기능만 정의한 탬플릿 형태의 클래스
     //                  자식 클래스는 실제 구현을 필수적으로 해야함.
     //                  추상클래스는 객체화 못함.
     // 재정의2 - abstract - override
@@ -166,7 +166,7 @@ namespace MyFirstProgram
 
     internal class ClassStudy
     {
-        static void Main43()
+        static void Main2()
         {
             // Object, 객체 or 인스턴스
             Person person = new Person("신태욱", 20); // 참조형 -> 객체화, 인스턴싱
@@ -187,6 +187,8 @@ namespace MyFirstProgram
 
             // 면접용 프리미엄 계산기를 실행하려면 아래 주석을 해제하세요.
             // PremiumCalculator.Start();
+
+            // double result = Math.Sqrt(5);
         }
     }
 }
